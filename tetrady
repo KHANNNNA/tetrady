@@ -1,0 +1,49 @@
+</style>
+
+</head>
+
+<body>
+
+<div class="container">
+
+    <h1>✨ Қош келдіңіз ✨</h1>
+
+    <!-- 📸 Фото -->
+    <div class="card">
+        <h2>📸 Фото</h2>
+        <img src="тетрадь.jpg" alt="Фото">
+    </div>
+
+    <!-- 🎥 Видео -->
+    <div class="card">
+        <h2>🎥 Видео</h2>
+        <video controls>
+            <source src="video.mp4" type="video/mp4">
+        </video>
+    </div>
+
+    <!-- 🎵 Аудио -->
+    <div class="card">
+        <h2>🎵 Аудио</h2>
+        <audio controls>
+            <source src="audio.mp3" type="audio/mpeg">
+        </audio>
+    </div>
+
+    <!-- 📝 Текст -->
+    <div class="card">
+        <h2>📝 Ақпарат</h2>
+        <p>
+            Бұл QR арқылы ашылатын жеке парақша.  
+            Мұнда фото, видео, музыка және текст көрсетуге болады.
+        </p>
+    </div>
+
+    <div class="footer">
+        Сделано с ❤️
+    </div>
+
+</div>
+
+</body>
+</html>
